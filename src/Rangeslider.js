@@ -261,8 +261,8 @@ class Slider extends Component {
 
     return {
       fill: fillPos,
-      handle: handlePos,
-      label: handlePos
+      handle: position,
+      label: position
     }
   };
 
