@@ -299,8 +299,8 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	      return {
 	        fill: fillPos,
-	        handle: handlePos,
-	        label: handlePos
+	        handle: position,
+	        label: position
 	      };
 	    };
 
